@@ -20,23 +20,23 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'Olamide' 
+global.botname = process.env.BOT_NAME || 'Peterson' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '2348141321576' 
+global.ownernumber = process.env.OWNER_NUMBER || '2347019187747' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Olamide' 
+global.ownername = process.env.OWNER_NAME || 'Peterson' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Olamide" 
+global.packname = process.env.STICKER_PACK_NAME || "Peterson" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Olamide" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Peterson" 
 
 //----------------[ GITHUB DATABASE ]-----------------//
 
